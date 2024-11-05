@@ -1,0 +1,23 @@
+Instructions to Push Changes to GitHub
+
+1. Navigate to Your Project Directory:
+   cd path/to/your/project
+
+2. Check the Status of Your Repository:
+   git status
+
+3. Add Your Changes:
+   git add .
+
+4. Commit Your Changes:
+   git commit -m \
+Your
+descriptive
+commit
+message\
+
+5. Push Your Changes:
+   git push origin main
+
+6. Verify the Push:
+   Go to your GitHub repository in your web browser to confirm that your changes have been pushed successfully.
